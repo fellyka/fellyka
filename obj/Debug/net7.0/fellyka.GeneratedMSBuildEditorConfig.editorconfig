@@ -12,7 +12,7 @@ build_property.RootNamespace = fellyka
 build_property.ProjectDir = D:\CSh_Projects\fellyka\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = D:\CSh_Projects\fellyka
 build_property._RazorSourceGeneratorDebug = 
 
