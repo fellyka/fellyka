@@ -18645,6 +18645,11 @@
   "RootNamespace": "fellyka",
   "Documents": [
     {
+      "FilePath": "d:\\CSh_Projects\\fellyka\\Pages\\Categories\\Create.cshtml",
+      "TargetPath": "Pages\\Categories\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\CSh_Projects\\fellyka\\Pages\\Privacy.cshtml",
       "TargetPath": "Pages\\Privacy.cshtml",
       "FileKind": "mvc"

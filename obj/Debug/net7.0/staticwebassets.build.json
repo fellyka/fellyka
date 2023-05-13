@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "e06s5aU+CjpxNkKZwMTwcMoWwpUQ0vOTxhMVv/ZwsWk=",
+  "Hash": "7jTuSvPCMPSeoUN49rrrXxp9It+r/W/zW6GMHZZkcRQ=",
   "Source": "fellyka",
   "BasePath": "_content/fellyka",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\CSh_Projects\\fellyka\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\fellyka.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\CSh_Projects\\fellyka\\wwwroot\\css\\sandstone.css",
+      "SourceId": "fellyka",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CSh_Projects\\fellyka\\wwwroot\\",
+      "BasePath": "_content/fellyka",
+      "RelativePath": "css/sandstone.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\sandstone.css"
     },
     {
       "Identity": "D:\\CSh_Projects\\fellyka\\wwwroot\\css\\site.css",
