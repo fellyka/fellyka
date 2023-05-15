@@ -18655,6 +18655,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\CSh_Projects\\fellyka\\Pages\\Categories\\Edit.cshtml",
+      "TargetPath": "Pages\\Categories\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\CSh_Projects\\fellyka\\Pages\\Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
       "FileKind": "mvc"
