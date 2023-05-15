@@ -30,9 +30,17 @@ namespace fellyka.Pages.Categories
 
         public async Task<IActionResult> OnPost()
         {
+            if (Category.Name == Category.DisplayOrder.ToString())
+            {
+                ModelState.AddModelError(string.Empty, "The DispalyPrder cannot exactly match the Name.");
+            }
+            if(ModelState.IsValid)
+            {
             await db.Categories.AddAsync(Category);
             await db.SaveChangesAsync();
             return RedirectToPage("Index");
+            }
+            return Page();
         }
     }
 }
