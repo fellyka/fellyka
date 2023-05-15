@@ -18650,6 +18650,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\CSh_Projects\\fellyka\\Pages\\Categories\\Delete.cshtml",
+      "TargetPath": "Pages\\Categories\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\CSh_Projects\\fellyka\\Pages\\Privacy.cshtml",
       "TargetPath": "Pages\\Privacy.cshtml",
       "FileKind": "mvc"
