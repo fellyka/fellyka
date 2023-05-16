@@ -37,7 +37,8 @@ namespace fellyka.Pages.Categories
                  {
                      db.Categories.Remove(foundCategory);
                      await db.SaveChangesAsync();
-                       return RedirectToPage("Index");
+                    TempData["success"] = "Category deleted successfully";
+                    return RedirectToPage("Index");
                  }   
             return Page();
         }

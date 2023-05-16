@@ -42,6 +42,7 @@ namespace fellyka.Pages.Categories
             {
             db.Categories.Update(Category);
             await db.SaveChangesAsync();
+            TempData["success"] = "Category updated successfully";
             return RedirectToPage("Index");
             }
             return Page();
