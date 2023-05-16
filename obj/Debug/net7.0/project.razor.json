@@ -18695,6 +18695,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\CSh_Projects\\fellyka\\Pages\\Shared\\_Notifications.cshtml",
+      "TargetPath": "Pages\\Shared\\_Notifications.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\CSh_Projects\\fellyka\\Pages\\_ViewStart.cshtml",
       "TargetPath": "Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
