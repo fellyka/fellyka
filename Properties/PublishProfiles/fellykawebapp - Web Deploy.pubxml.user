@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAlPbr69q0hUiiYlegSzZtJwAAAAACAAAAAAAQZgAAAAEAACAAAADuZWzd9SFlYrnv4rDpvk+fegnRgvflu4K5bHel7MNwowAAAAAOgAAAAAIAACAAAAC04GBZuxBJiYgyJZdcIeLsvrYxfF9BizTXcmySzzMJ7IAAAAAlpeL8NxtJLAwqwe5gm+d+weQdLfhvdmCEPROLedwNHOfTPDanPadJoq581GemSGdHt8DvsL76T12PUQjxA7O3bQ8iFPhvcc/IJSOXY417XHA2iDAhxjG/Wko+iK0n/H21zuxbK6fB3PTu3udTE1aHOJjHpDN441XUb3s+7njDkUAAAAC1HssRVV6v0XF5WFSpiSH8bflS3/To8+kd0rocHCABbzxyXtb8LMpf4Az6jxRfEON6BmEtgoc+/5XXh6JPejTt</EncryptedPassword>
+    <History>True|2023-05-18T12:46:49.6407724Z;True|2023-05-18T14:42:32.4839117+02:00;True|2023-05-18T14:39:11.0062376+02:00;True|2023-05-18T14:37:57.8736332+02:00;True|2023-05-18T14:36:19.4620958+02:00;True|2023-05-18T14:31:28.1416449+02:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="AppConnection">
+      <Value>Data Source=fkrazorpages.database.windows.net,1433%3bInitial Catalog=dotnetmastery%3bUser ID=fellyka%3bPassword=FeliKa140585#</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="fellyka.Data.AppDbContext">
+      <Value>Data Source=fkrazorpages.database.windows.net,1433%3bInitial Catalog=dotnetmastery%3bUser ID=fellyka%3bPassword=FeliKa140585#</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
